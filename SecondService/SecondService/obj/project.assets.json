@@ -459,6 +459,7 @@
       "packagesPath": "C:\\Users\\kostap\\.nuget\\packages\\",
       "outputPath": "C:\\Kosta_information\\projects\\DockerPlayground\\Docker-tests\\SecondService\\SecondService\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
@@ -490,8 +491,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
