@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mf2YMz/1BTqQaPV/xjiM21m7mM9qMBnSegDhrwOPy2E=",
+  "Source": "SecondService",
+  "BasePath": "_content/SecondService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

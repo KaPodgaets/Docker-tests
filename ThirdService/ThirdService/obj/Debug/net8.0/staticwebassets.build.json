@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "30Zp3ZWNJuX4AntKrv8Q7z7VLmRqDZZNfRe1mflGAJM=",
+  "Source": "ThirdService",
+  "BasePath": "_content/ThirdService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
